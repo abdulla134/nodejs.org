@@ -80,6 +80,6 @@
     "stylelint": "^14.9.1",
     "stylelint-config-twbs-bootstrap": "^4.0.0",
     "tape": "^5.5.3",
-    "vnu-jar": "21.10.12"
+    "vnu-jar": "22.9.29"
   }
 }
